@@ -32,8 +32,10 @@ Você deverá seguir o layout disponível em: link_figma
 ## História do usuário
 
 > **Como** revisor do teste 
+> 
 > **Quero** acessar o código e rodar o projeto em um
 > simulador 
+> 
 > **Para** poder entender melhor sobre seu código e te avaliar
 > tecnicamente para a vaga que se candidatou
 
