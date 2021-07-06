@@ -2,11 +2,11 @@
 # Teste Dev React Native Jr
 
 ## Qual o objetivo do teste?
-O objetivo desse teste é entender melhor seu nível de experiência, formas de desenvolvimento e conseguir ver o resultado de uma aplicação feita por você.
+Boas vindas dev! O objetivo desse teste é entender melhor seu nível de experiência, formas de desenvolvimento e conseguir ver o resultado de uma aplicação feita por você.
 
 ## Funcionalidades da aplicação
 
-Na aplicação de teste você deverá criar uma aplicação em React Native (preferencialmente em sua versão mais recente) chamada 'PokeDev', utilizando o CLI `npx react-native init PokeDev`.
+Na aplicação de teste você deverá criar uma aplicação em React Native (preferencialmente em sua versão mais recente) chamada "PokeDev", utilizando o CLI `npx react-native init PokeDev`.
 
 Nessa aplicação deverá ter no mínimo 2 telas. Uma tela de listagem com 20 pokémons e uma de detalhes do pokémon.
 
