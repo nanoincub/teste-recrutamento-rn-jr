@@ -62,6 +62,10 @@ Além do seu código, avaliaremos também alguns outros pontos que podem ser mai
 - Criatividade
 - Lógica utilizada
 
+## Envio do teste
+
+Ao finalizar o teste, envie um email com o assunto `[Teste Dev RN jr] Teste finalizado! Seu Nome`, no corpo do email adicione o **link de seu repositório com o resultado** e suas considerações para o email rh@nanoincub.com.br.
+
 ## Dúvidas
 
-Se tiver qualquer dúvida sobre esse teste, envie um email com o título `[Teste Dev RN jr] O assunto da dúvida para rh@nanoincub.com.br`
+Se tiver qualquer dúvida sobre esse teste, envie um email com o assunto `[Teste Dev RN jr] O assunto da dúvida` para o email rh@nanoincub.com.br
