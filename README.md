@@ -10,7 +10,7 @@ Na aplicação de teste você deverá criar uma aplicação em React Native (pre
 
 Nessa aplicação deverá ter no mínimo 2 telas. Uma tela de listagem com 20 pokémons e uma de detalhes do pokémon.
 
-A aplicação deverá consumir de testes em [https://pokeapi.co/](https://pokeapi.co/), nos recursos:
+A aplicação deverá consumir a API de testes disponível em [https://pokeapi.co/](https://pokeapi.co/), nos recursos:
 
 Listagem de pokémons: [https://pokeapi.co/api/v2/pokemon?limit=20](https://pokeapi.co/api/v2/pokemon?limit=20)
 
