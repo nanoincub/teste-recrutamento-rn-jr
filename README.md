@@ -27,7 +27,7 @@ Os atributos que precisam ser exibidos na tela de detalhes são:
 - Lista de `abilities` exibindo o `name` de cada uma;
 - Lista de `moves` exibindo o `name` de cada um.
 
-Você deverá seguir o layout disponível em: link_figma
+Você deverá seguir o layout disponível em [https://www.figma.com/file/5bHoJ31nTjIMGAXuzairGn/PokeDev-Teste-Dev-RN-jr?node-id=462%3A1241](https://www.figma.com/file/5bHoJ31nTjIMGAXuzairGn/PokeDev-Teste-Dev-RN-jr?node-id=462%3A1241)
 
 ## História do usuário
 
