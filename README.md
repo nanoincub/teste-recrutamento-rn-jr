@@ -29,7 +29,7 @@ Os atributos que precisam ser exibidos na tela de detalhes são:
 
 Você deverá seguir o layout disponível em [Link do layout no Figma](https://www.figma.com/file/5bHoJ31nTjIMGAXuzairGn/PokeDev-Teste-Dev-RN-jr?node-id=462%3A1241)
 
-⚠️  Caso não consiga completar 100% do teste, envie-nos mesmo assim e comente no email quais foram as dificuldades e analisaremos seu teste ;)
+⚠️ &nbsp;Caso não consiga completar 100% do teste, envie-nos mesmo assim e comente no email quais foram as dificuldades e analisaremos seu teste ;)
 
 ## História do usuário
 
